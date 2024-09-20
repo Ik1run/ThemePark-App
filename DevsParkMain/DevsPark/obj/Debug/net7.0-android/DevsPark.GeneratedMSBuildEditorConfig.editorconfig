@@ -1,0 +1,149 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net7.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DevsPark
+build_property.ProjectDir = C:\Users\Admin\source\repos\DevsParkMain\DevsPark\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/Admin/source/repos/DevsParkMain/DevsPark/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DevsPark.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Admin/source/repos/DevsParkMain/DevsPark/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DevsPark.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/Admin/source/repos/DevsParkMain/DevsPark/MVVM/Pages/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DevsPark.MVVM.Pages.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Pages\AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Pages\AppShell.xaml
+
+[C:/Users/Admin/source/repos/DevsParkMain/DevsPark/MVVM/Pages/AppShellTabs.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DevsPark.MVVM.Pages.AppShellTabs.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Pages\AppShellTabs.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Pages\AppShellTabs.xaml
+
+[C:/Users/Admin/source/repos/DevsParkMain/DevsPark/MVVM/Pages/DesertMirage/NightAdventures/NightDuneBuggy.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DevsPark.MVVM.Pages.DesertMirage.NightAdventures.NightDuneBuggy.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Pages\DesertMirage\NightAdventures\NightDuneBuggy.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Pages\DesertMirage\NightAdventures\NightDuneBuggy.xaml
+
+[C:/Users/Admin/source/repos/DevsParkMain/DevsPark/MVVM/Pages/DesertMirage/NightAdventures/StarGazing.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DevsPark.MVVM.Pages.DesertMirage.NightAdventures.StarGazing.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Pages\DesertMirage\NightAdventures\StarGazing.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Pages\DesertMirage\NightAdventures\StarGazing.xaml
+
+[C:/Users/Admin/source/repos/DevsParkMain/DevsPark/MVVM/Pages/DesertMirage/OasisFun/CamelRides.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DevsPark.MVVM.Pages.DesertMirage.OasisFun.CamelRides.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Pages\DesertMirage\OasisFun\CamelRides.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Pages\DesertMirage\OasisFun\CamelRides.xaml
+
+[C:/Users/Admin/source/repos/DevsParkMain/DevsPark/MVVM/Pages/DesertMirage/OasisFun/OasisPools.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DevsPark.MVVM.Pages.DesertMirage.OasisFun.OasisPools.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Pages\DesertMirage\OasisFun\OasisPools.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Pages\DesertMirage\OasisFun\OasisPools.xaml
+
+[C:/Users/Admin/source/repos/DevsParkMain/DevsPark/MVVM/Pages/FeaturedView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DevsPark.MVVM.Pages.FeaturedView.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Pages\FeaturedView.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Pages\FeaturedView.xaml
+
+[C:/Users/Admin/source/repos/DevsParkMain/DevsPark/MVVM/Pages/Frozen/IcyTreats/FrozenDrinksBar.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DevsPark.MVVM.Pages.Frozen.IcyTreats.FrozenDrinksBar.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Pages\Frozen\IcyTreats\FrozenDrinksBar.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Pages\Frozen\IcyTreats\FrozenDrinksBar.xaml
+
+[C:/Users/Admin/source/repos/DevsParkMain/DevsPark/MVVM/Pages/Frozen/IcyTreats/IceCreamWorld.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DevsPark.MVVM.Pages.Frozen.IcyTreats.IceCreamWorld.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Pages\Frozen\IcyTreats\IceCreamWorld.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Pages\Frozen\IcyTreats\IceCreamWorld.xaml
+
+[C:/Users/Admin/source/repos/DevsParkMain/DevsPark/MVVM/Pages/Frozen/SnowActivities/IceSculptures.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DevsPark.MVVM.Pages.Frozen.SnowActivities.IceSculptures.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Pages\Frozen\SnowActivities\IceSculptures.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Pages\Frozen\SnowActivities\IceSculptures.xaml
+
+[C:/Users/Admin/source/repos/DevsParkMain/DevsPark/MVVM/Pages/Frozen/SnowActivities/Snowboarding.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DevsPark.MVVM.Pages.Frozen.SnowActivities.Snowboarding.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Pages\Frozen\SnowActivities\Snowboarding.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Pages\Frozen\SnowActivities\Snowboarding.xaml
+
+[C:/Users/Admin/source/repos/DevsParkMain/DevsPark/MVVM/Pages/OffersView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DevsPark.MVVM.Pages.OffersView.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Pages\OffersView.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Pages\OffersView.xaml
+
+[C:/Users/Admin/source/repos/DevsParkMain/DevsPark/MVVM/Pages/SearchView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DevsPark.MVVM.Pages.SearchView.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Pages\SearchView.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Pages\SearchView.xaml
+
+[C:/Users/Admin/source/repos/DevsParkMain/DevsPark/MVVM/Pages/TemplateView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DevsPark.MVVM.Pages.TemplateView.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Pages\TemplateView.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Pages\TemplateView.xaml
+
+[C:/Users/Admin/source/repos/DevsParkMain/DevsPark/MVVM/Pages/TropicalParadise/BeachAttractions/SurfLessons.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DevsPark.MVVM.Pages.TropicalParadise.BeachAttractions.SurfLessons.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Pages\TropicalParadise\BeachAttractions\SurfLessons.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Pages\TropicalParadise\BeachAttractions\SurfLessons.xaml
+
+[C:/Users/Admin/source/repos/DevsParkMain/DevsPark/MVVM/Pages/TropicalParadise/BeachAttractions/WavePool.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DevsPark.MVVM.Pages.TropicalParadise.BeachAttractions.WavePool.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Pages\TropicalParadise\BeachAttractions\WavePool.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Pages\TropicalParadise\BeachAttractions\WavePool.xaml
+
+[C:/Users/Admin/source/repos/DevsParkMain/DevsPark/MVVM/Pages/TropicalParadise/JungleAdventures/AnimalShows.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DevsPark.MVVM.Pages.TropicalParadise.JungleAdventures.AnimalShows.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Pages\TropicalParadise\JungleAdventures\AnimalShows.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Pages\TropicalParadise\JungleAdventures\AnimalShows.xaml
+
+[C:/Users/Admin/source/repos/DevsParkMain/DevsPark/MVVM/Pages/TropicalParadise/JungleAdventures/ZipLines.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DevsPark.MVVM.Pages.TropicalParadise.JungleAdventures.ZipLines.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Pages\TropicalParadise\JungleAdventures\ZipLines.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Pages\TropicalParadise\JungleAdventures\ZipLines.xaml
+
+[C:/Users/Admin/source/repos/DevsParkMain/DevsPark/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DevsPark.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Admin/source/repos/DevsParkMain/DevsPark/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DevsPark.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
